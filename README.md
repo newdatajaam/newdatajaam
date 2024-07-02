@@ -1,11 +1,10 @@
 ### Hi there 👋
 <div align="center">
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newjaam)](https://solved.ac/newjaam)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newjaam)](https://solved.ac/newjaam) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newdatajaam&show_icons=true&theme=shadow_blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newdatajaam&layout=compact&theme=shadow_blue)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newdatajaam&show_icons=true&theme=shadow_blue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newdatajaam&layout=compact&theme=shadow_blue)
 
 
 
